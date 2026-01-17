@@ -1,0 +1,23 @@
+# Generados durante instalación
+*.backup
+/tmp/
+*.tmp
+*.log
+
+# Archivos del sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime
+__pycache__/
+*.pyc
+
+# Temporales
+.cache
